@@ -154,5 +154,33 @@
          y="1043.4939"
          style="font-size:14.3250494px;line-height:89.99999762%;fill:#1a1a1a"
          id="tspan3037" /></text>
+    <rect
+       style="fill:none;stroke:#4d4d4d;stroke-width:0.81750304"
+       id="rect3003"
+       width="53.753948"
+       height="57.338203"
+       x="436.19559"
+       y="713.74957"
+       ry="3.9458408" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.98589689;stroke-miterlimit:4;stroke-dasharray:0.9858969, 1.97179379;stroke-dashoffset:0"
+       id="rect3003-3"
+       width="65.453178"
+       height="68.533653"
+       x="430.49295"
+       y="708.33557"
+       ry="4.7162776" />
+    <text
+       xml:space="preserve"
+       style="font-size:60.95452499px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+       x="439.02115"
+       y="763.01556"
+       id="text5351"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5353"
+         x="439.02115"
+         y="763.01556"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;fill:#666666;font-family:a_AlternaBrk;-inkscape-font-specification:a_AlternaBrk Semi-Bold">Ф</tspan></text>
   </g>
 </svg>
