@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="524.40942"
+   height="372.04724"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="postcard_otherside.svg"
+   inkscape:export-filename="/home/svet/Dropbox/falanster/design/postcards/for_print/console/postcard_otherside.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="292.14286"
+     inkscape:cy="184.54724"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="197.14286,22.142857"
+       id="guide2999" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="26.263966,437.39605"
+       id="guide3001" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="495.9849,304.05592"
+       id="guide3003" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="260.71429,275"
+       id="guide3007" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="78.571429,387.85714"
+       id="guide3019" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-680.31491)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect2985"
+       width="524.40942"
+       height="372.04724"
+       x="0"
+       y="680.31488" />
+    <text
+       xml:space="preserve"
+       style="font-size:30px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#999999;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+       x="262.14285"
+       y="904.36212"
+       id="text3009"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3011"
+         x="262.14285"
+         y="904.36212"
+         style="font-size:25px;fill:#999999">...................</tspan><tspan
+         sodipodi:role="line"
+         x="262.14285"
+         y="935.61212"
+         id="tspan3013"
+         style="font-size:25px;fill:#999999">...................</tspan><tspan
+         sodipodi:role="line"
+         x="262.14285"
+         y="966.86212"
+         id="tspan3015"
+         style="font-size:25px;fill:#999999">...................</tspan><tspan
+         sodipodi:role="line"
+         x="262.14285"
+         y="998.11212"
+         id="tspan3017"
+         style="font-size:25px;fill:#999999">...................</tspan><tspan
+         sodipodi:role="line"
+         x="262.14285"
+         y="1029.3621"
+         style="font-size:25px;fill:#999999"
+         id="tspan3029">...................</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3021"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Ubuntu Mono;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Ubuntu Mono;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion3023"><rect
+           id="rect3025"
+           width="0"
+           height="82.14286"
+           x="200"
+           y="34.904385" /></flowRegion><flowPara
+         id="flowPara3027" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:35.81262589px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.99999762%;letter-spacing:0px;word-spacing:0px;fill:#1a1a1a;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+       x="26.263966"
+       y="1004.8162"
+       id="text3031"
+       sodipodi:linespacing="89.999998%"><tspan
+         sodipodi:role="line"
+         id="tspan3033"
+         x="26.263966"
+         y="1004.8162"
+         style="font-size:14.3250494px;line-height:89.99999762%;fill:#1a1a1a">Source: github.com/svetit</tspan><tspan
+         sodipodi:role="line"
+         x="26.263966"
+         y="1017.7087"
+         id="tspan3035"
+         style="font-size:14.3250494px;line-height:89.99999762%;fill:#1a1a1a">/2016-postcards-social-geek</tspan><tspan
+         sodipodi:role="line"
+         x="26.263966"
+         y="1030.6013"
+         style="font-size:14.3250494px;line-height:89.99999762%;fill:#1a1a1a"
+         id="tspan3039">License: CC BY-SA</tspan><tspan
+         sodipodi:role="line"
+         x="26.263966"
+         y="1043.4939"
+         style="font-size:14.3250494px;line-height:89.99999762%;fill:#1a1a1a"
+         id="tspan3037" /></text>
+  </g>
+</svg>
